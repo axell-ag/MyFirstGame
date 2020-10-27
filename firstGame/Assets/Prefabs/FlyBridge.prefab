@@ -214,6 +214,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 422d1a23002b50548aa59e01f12dbb87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Points:
+  _points:
   - {fileID: 8553562803636717649}
   - {fileID: 8553562804340889741}

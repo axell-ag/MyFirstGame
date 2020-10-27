@@ -66,6 +66,7 @@ public class Player : MonoBehaviour
     public void Invulnerability()
     {
         StartCoroutine(EnemyNoHit());
+        StartCoroutine(OnHit());
     }
 
     public void OnButtonUp()
